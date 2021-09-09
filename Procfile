@@ -1,1 +1,1 @@
-web: year start
+web: yarn start
